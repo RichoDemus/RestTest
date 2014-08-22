@@ -18,6 +18,7 @@
     <modules>
         <module>api</module>
         <module>web</module>
+        <module>client</module>
     </modules>
     <packaging>pom</packaging>
     <name>rest-test-parent</name>
